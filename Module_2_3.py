@@ -7,4 +7,4 @@ while index < len(my_list):
         continue
     index += 1
     break
-print(my_list[index]
+print(my_list[index])
